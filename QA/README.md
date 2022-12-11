@@ -5,4 +5,4 @@
 >* 迴圈  
 >* 判斷  
 ##### tags: `網頁操作`
->https://yizelee.github.io/Javascript/test.html
+>https://yizelee.github.io/Javascript/QA/test.html
