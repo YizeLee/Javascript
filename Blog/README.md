@@ -4,4 +4,4 @@
 >* addEventListener  
 >* 模板  
 ##### tags: `網頁操作`
->https://yizelee.github.io/Javascript/test.html
+>https://yizelee.github.io/Javascript/Blog/blog.html
