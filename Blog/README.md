@@ -1,7 +1,11 @@
 # 自製部落格
-#### tags: `JS語法說明`
+### tags: `功能使用`  
+> * 進入網頁後重新整理，輸入自己的暱稱
+> * 輸入標題與內容
+> * 按下發布後，紀錄標題與內容
+### tags: `JS語法使用`
 >* 取得HTML元素  
 >* addEventListener  
->* 模板  
-##### tags: `網頁操作`
+>* HTML模板  
+### tags: `網頁操作(進入網站後請先重新整理)`
 >https://yizelee.github.io/Javascript/Blog/blog.html
