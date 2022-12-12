@@ -2,7 +2,7 @@
 ### tags: `介紹操作流程`  
 > * 進入網頁後重新整理
 > * 上下調整或輸入攝氏度數，對應華氏度數
-### tags: `onInput使用說明`
+### tags: `JS使用語法`
 >* onInput()
 #### tags: `網頁操作(網頁操作(進入網站後請先重新整理))`
 >https://yizelee.github.io/Javascript/HTML_Event/onInput/temperature.html
