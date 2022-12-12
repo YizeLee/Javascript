@@ -1,9 +1,8 @@
-# HTML DOM
+# HTML DOM(溫度轉換器)
 ### tags: `介紹操作流程`  
-> * 進入網頁後重新整理，輸入內容
-> * 按下其中一個按鈕，對應不同的效果
-### tags: `onClick使用說明`
->* onClick()
->* prompt
+> * 進入網頁後重新整理
+> * 上下調整或輸入攝氏度數，對應華氏度數
+### tags: `onInput使用說明`
+>* onInput()
 #### tags: `網頁操作(網頁操作(進入網站後請先重新整理))`
 >https://yizelee.github.io/Javascript/HTML_Event/onInput/temperature.html
