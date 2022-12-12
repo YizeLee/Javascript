@@ -5,4 +5,4 @@
 ### tags: `JS使用語法`
 >* onChange()
 #### tags: `網頁操作(網頁操作(進入網站後請先重新整理))`
->https://yizelee.github.io/Javascript/HTML_Event/onChange/onChange.html
+>https://yizelee.github.io/Javascript/HTML_Event/onChange/onChagne.html
