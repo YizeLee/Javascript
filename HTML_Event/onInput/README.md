@@ -6,4 +6,4 @@
 >* onClick()
 >* prompt
 #### tags: `網頁操作(網頁操作(進入網站後請先重新整理))`
->https://yizelee.github.io/Javascript/HTML_Event/onClick/button.html
+>https://yizelee.github.io/Javascript/HTML_Event/onInput/temperature.html
