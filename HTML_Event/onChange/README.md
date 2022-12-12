@@ -1,8 +1,8 @@
-# HTML DOM(溫度轉換器)
+# HTML DOM
 ### tags: `介紹操作流程`  
 > * 進入網頁後重新整理
-> * 上下調整或輸入攝氏度數，對應華氏度數
+> * 使用下拉式選單，選擇想要的程式語言，對應文字與圖片。
 ### tags: `JS使用語法`
->* onInput()
+>* onChange()
 #### tags: `網頁操作(網頁操作(進入網站後請先重新整理))`
->https://yizelee.github.io/Javascript/HTML_Event/onInput/temperature.html
+>https://yizelee.github.io/Javascript/HTML_Event/onChange/onChange.html
